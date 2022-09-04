@@ -1,6 +1,6 @@
 package main
 
-import "testing"
+import "mnt"
 
 func Cat(){
   fmt.Print("OK")
