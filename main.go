@@ -8,5 +8,4 @@ func Cat(){
 
 func main(){
   Cat()
-  fmt.Print(saying)
 }
