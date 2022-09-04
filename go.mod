@@ -1,3 +1,3 @@
-module github-action-demo
+module mylib
 
 go 1.16
